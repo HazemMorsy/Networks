@@ -1,0 +1,1 @@
+POST /home/hazem/Desktop/HTTP/Client_Folders/doc1.txt HTTP/1.1
